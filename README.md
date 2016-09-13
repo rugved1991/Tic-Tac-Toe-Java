@@ -1,6 +1,7 @@
 # Tic-Tac-Toe-Java
 This is a 2 player game Tic-Tac-Toe. Written in Java.
 
+Export the Java project as a Runnable Jar file.
 Save the jar file of the game on your computer. Use this jar file to run the game.
 
 #How to run this game
